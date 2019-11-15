@@ -9,7 +9,7 @@ window.addEventListener('load', function (evt) {
 chrome.runtime.onMessage.addListener(function (message) {
 	document.getElementById('pagetitle').innerHTML = message;
 	console.log(message);
-	if (message == message.includes("videos")){
+	if (message.includes("videos")){
 		chrome.tabs.executeScript({
 		  file: 'redirect.js'
 		});
