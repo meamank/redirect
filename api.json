@@ -1,0 +1,3129 @@
+{
+  "study_materials": {
+    "physics": [
+      {
+        "topic_id": 1898,
+        "topic_name": "Alternating Current",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 1,
+            "total_pages": 28,
+            "updated_at": "2017-05-08T06:22:18.000Z",
+            "concepts": [
+              "1.BASIC PRINCIPLE OF AC GENERATION",
+              "2.AC VOLTAGE APPLIED TO A RESISTOR",
+              "3.AC VOLTAGE APPLIED TO A CAPACITOR",
+              "4.REPRESENTATION OF AC CURRENT AND VOLTAGE BY ROTATING VECTORS  PHASORS",
+              "5.SOLVED ILLUSTRATION"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1856,
+        "topic_name": "Centre of Mass & Momentum Conservation",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 2,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.Centre of Mass of a System of 'N' Discrete Particles",
+              "2.MOTION OF CENTRE MASS",
+              "3.MOMENTUM",
+              "4.COLLISION OF BODIES"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1857,
+        "topic_name": "Circular Motion",
+        "assigned": false,
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 3,
+            "total_pages": 8,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.KINEMATICS OF CIRCULAR MOTION",
+              "2.CIRCULAR DYNAMICS",
+              "3.MOTION IN HORIZONTAL CIRCLE",
+              "4.CIRCULAR TURNING AND BANKING OF ROADS"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1858,
+        "topic_name": "Current Electricity",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 4,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.ELECTRIC CURRENT",
+              "2.CURRENT DENSITY",
+              "3.OHM'S LAW",
+              "4.EFFECT OF TEMPERATURE ON RESISTANCE",
+              "5.KIRCHOFF'S LAWS",
+              "6.WHEAT STONE BRIDGE",
+              "7.POTENTIOMETER",
+              "8.CONVERSION OF GALVANOMETER INTO AMMETER"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1859,
+        "topic_name": "Elasticity, Calorimetry, Thermal Expansion & Heat Transfer",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 5,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.ELASTICITY",
+              "2.STRESS-STRAIN CURVE",
+              "3.CALORIMETRY",
+              "4.THERMALEXPANSION"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 6,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "5.FLUID EXPANSION",
+              "6.HEAT TRANSFER"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1861,
+        "topic_name": "Electromagnetic Induction",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 7,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.MAGNETIC FLUX",
+              "2.FARADAY'S LAWS OF ELECTROMAGNETIC INDUCTION",
+              "3.GENERATION OF EMF AND CURRENT IN VARIOUS OBJECTS",
+              "4.SELF  INDUCTANCE",
+              "5.MUTUAL INDUCTANCE",
+              "6.GROWTH AND DECAY OF CURRENT IN LR CIRCUIT",
+              "7.GENERATOR"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 361,
+            "total_pages": 19,
+            "updated_at": "2017-03-15T11:17:22.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 362,
+            "total_pages": 27,
+            "updated_at": "2017-03-15T11:17:22.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 363,
+            "total_pages": 12,
+            "updated_at": "2017-03-15T11:17:22.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 364,
+            "total_pages": 23,
+            "updated_at": "2017-03-15T11:17:22.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          },
+          {
+            "name": "ACC Questions",
+            "id": 365,
+            "total_pages": 7,
+            "updated_at": "2017-03-15T11:17:22.000Z",
+            "concepts": [
+              "1. ACC Exercise"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1860,
+        "topic_name": "Electrostatics & Capacitance",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 8,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.CHARGE",
+              "2.ELECTROSTATIC INDUCTION",
+              "3.PRINCIPLE OF SUPERPOSITION",
+              "4.ELECTRIC POTENTIAL",
+              "5.POTENTIALENERGY OFCHARGED PARTICLE IN ELECTRIC FIELD",
+              "6.GAUSS'S LAW"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 9,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "7.CONDUCTORS",
+              "8.ELECTRIC DIPOLE",
+              "9.FORCE ON THE SURFACE OF A CHARGED CONDUCTOR",
+              "10.CAPACITANCE",
+              "11.CAPACITY OF VARIOUS CAPACITOR",
+              "12.Grouping of capacitors"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1862,
+        "topic_name": "Fluid Mechanics",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 10,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.Definition of Fluid",
+              "2.Pressure in a Fluid",
+              "3.Measurement of Atmospheric Pressure",
+              "4.ARCHIMEDES PRINCIPLE",
+              "5.REYNOLD'S NUMBER",
+              "6.SURFACE TENSION"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1863,
+        "topic_name": "Geometrical optics",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 11,
+            "total_pages": 22,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.Ray",
+              "2.PLANE MIRROR",
+              "3.CHARACTERISTICS OF REFLECTION AT PLANE MIRROR",
+              "4.RULES FOR RAY DIAGRAMS",
+              "5.REFRACTION AT PLANE SURFACES"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 12,
+            "total_pages": 30,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "6.PRISM",
+              "7.DISPERSION OF LIGHT",
+              "8.REFRACTION AT CURVED SURFACES",
+              "9.LENS",
+              "10.OPTICAL INSTRUMENTS"
+            ]
+          },
+          {
+            "name": "Exercise Questions",
+            "id": 376,
+            "total_pages": 11,
+            "updated_at": "2017-03-16T05:03:29.000Z",
+            "concepts": [
+              "1. Exercise"
+            ]
+          },
+          {
+            "name": "Exercise Questions",
+            "id": 377,
+            "total_pages": 8,
+            "updated_at": "2017-03-16T04:59:56.000Z",
+            "concepts": [
+              "1. Exercise"
+            ]
+          },
+          {
+            "name": "Exercise Questions",
+            "id": 378,
+            "total_pages": 7,
+            "updated_at": "2017-03-16T04:59:56.000Z",
+            "concepts": [
+              "1. Exercise"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1864,
+        "topic_name": "Gravitation",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 13,
+            "total_pages": 28,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.INTRODUCTION",
+              "2.ACCELERATION DUE TO GRAVITY OF THE EARTH",
+              "3.GRAVITATIONAL POTENTIAL ENERGY",
+              "4.PLANETS AND SATELLITES"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1865,
+        "topic_name": "Kinematics",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 14,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.INTRODUCTION",
+              "2.BASIC DEFINITIONS",
+              "3.RECTILINEAR OR ONE DIMENSIONAL MOTION",
+              "4.VERTICAL MOTION UNDER GRAVITY (FREE FALL)"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 15,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "5.MOTION IN TWO DIMENSION",
+              "6.RELATIVE VELOCITY",
+              "7.CIRCULAR MOTION"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1866,
+        "topic_name": "Kinetic Theory of Gases and Thermodynamics",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "KTG",
+            "id": 16,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.KTG",
+              "2.MAXWELL'S DISTRIBUTION LAW",
+              "3.INTERNAL ENERGY",
+              "4.REAL GAS VANDER WALL GAS EQUATION"
+            ]
+          },
+          {
+            "name": "HEAT",
+            "id": 17,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "4.Important points",
+              "5.FIRST LAW OF THERMODYNAMICS",
+              "6.ENTROPY"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1867,
+        "topic_name": "Magnetic Effect of Current & Magentism",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 18,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.MAGNETISM DUE TO ELECTRICITY",
+              "2.MAGNETIC FIELD DUE TO A FINITE STRAIGHT WIRE",
+              "3.MAGNETIC FIELD DUE TO A CURRENT CARRYING ARC AT ITS CENTRE",
+              "4.MAGNETIC FIELD DUE TO A CIRCULAR CURRENT LOOP AT A POINT ON ITS AIXS",
+              "5.MOTION OF CHARGED PARTICLE IN UNIFORM MAGNETIC FIELD"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 19,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "6.LORENTZ FORCE",
+              "7.MAGNETIC MOMENT",
+              "8.CYCLOTRON",
+              "9.PARAMAGNETISM, FERROMAGNETISM AND DIAMAGNETISM"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 388,
+            "total_pages": 16,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 391,
+            "total_pages": 12,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 393,
+            "total_pages": 5,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1868,
+        "topic_name": "Mechanical Waves",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 20,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.TYPES OF WAVES",
+              "2.STANDING WAVES IN STRINGS AND NORMAL MODES OF VIBRATION",
+              "3.EXPERIMENT OF MELDE'S",
+              "4.SOUND WAVES",
+              "5.DOPPLERS EFFECT"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1901,
+        "topic_name": "Photomodern Physics - Photoelectric Effect",
+        "assigned": false,
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 21,
+            "total_pages": 8,
+            "updated_at": "2017-05-08T06:14:22.000Z",
+            "concepts": [
+              "1.Photo Electric Effect",
+              "2.Laws of Photo Electric Effect",
+              "3.Einsteins Equation of Photo Electric Effect",
+              "4.Photo Electric Current"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1871,
+        "topic_name": "Photomodern Physics - Atomic Structure",
+        "assigned": false,
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 22,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.Thomsons atomic model",
+              "2.Bohr's Atomic model",
+              "3.Explanation of H-Spectrum & Spectral Line Formula"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 380,
+            "total_pages": 5,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 383,
+            "total_pages": 5,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 386,
+            "total_pages": 9,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 389,
+            "total_pages": 4,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 392,
+            "total_pages": 9,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1921,
+        "topic_name": "Modern Physics - X-Ray",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 23,
+            "total_pages": 12,
+            "updated_at": "2017-05-08T05:49:35.000Z",
+            "concepts": [
+              "1.Production of X-Ray",
+              "2.Uses of X-Rays",
+              "3.Soft and Hard X-Ray"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1869,
+        "topic_name": "Modern Physics - Nuclear Physics & Radioactivity",
+        "assigned": false,
+        "locked": true,
+        "has_videos": false,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Nucear Physics",
+            "id": 24,
+            "total_pages": 9,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.Nuclear characteristics",
+              "2.DIFFERENT TYPES OF NUCLEI",
+              "3.NUCLEAR BINDING ENERGY",
+              "4.NUCLEAR FUSION"
+            ]
+          },
+          {
+            "name": "RADIOACTIVITY",
+            "id": 25,
+            "total_pages": 8,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "5.LAWS OF RADIOACTIVE DISINTEGRATION",
+              "6.CHARACTERISTICS OF RADIOACTIVE RADIATIONS"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 379,
+            "total_pages": 3,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 381,
+            "total_pages": 3,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 382,
+            "total_pages": 8,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 385,
+            "total_pages": 13,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 387,
+            "total_pages": 3,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 395,
+            "total_pages": 9,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1872,
+        "topic_name": "Rotational Motion",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 26,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.TYPE OF MOTION",
+              "2.MOMENT OF INERTIA",
+              "3.PARALLEL AXIS THEOREM",
+              "4.MOMENT OF FORCE OR TORQUE"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 27,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "5.EQUILIBRIUM OF A RIGID BODY",
+              "6.CENTRE OF GRAVITY",
+              "7.ROLLING - COMBINATION OF TRANSLATIONAL AND ROTATIONAL MOTION"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1873,
+        "topic_name": "Semiconductor Electronics, Communication System, and Wave Optics",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "SEMICONDUCTOR ELECTRONICS",
+            "id": 28,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.TYPES OF SOLID MATERIALS ON THE BASIS OF FORBIDDEN ENERGY GAP",
+              "2.PN JUNCTION",
+              "3.REVERSE BREAKDOWN",
+              "4.GAINS IN COMMON-EMITTER AMPLIFIER"
+            ]
+          },
+          {
+            "name": "COMMUNICATION SYSTEM",
+            "id": 29,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "5.COMMUNICATION SYSTEM",
+              "6.TYPES OF COMMUNICATIONS SYSTEMS",
+              "7.COMPARISON OF AMPLITUDE MODULATION AND FREQUENCY MODULATION",
+              "8.RADIOWAVES"
+            ]
+          },
+          {
+            "name": "WAVE OPTICS",
+            "id": 30,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "9.COHERENT SOURCE",
+              "10.CONDITIONS FOR SUSTAINED INTERFERENCE PATTERN",
+              "11.DIFFRACTION",
+              "12.POLARISATION"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 384,
+            "total_pages": 7,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 390,
+            "total_pages": 19,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          },
+          {
+            "name": "Medical Problems",
+            "id": 394,
+            "total_pages": 3,
+            "updated_at": "2017-03-17T06:14:08.000Z",
+            "concepts": [
+              "1. Problem Set"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1874,
+        "topic_name": "Simple Harmonic Motion",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 31,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:56.000Z",
+            "concepts": [
+              "1.Important characteristics of oscillatory motion",
+              "2.SIMPLE HARMONIC MOTION",
+              "3.ENERGY OF SHM",
+              "4.SIMPLE PENDULUM"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1875,
+        "topic_name": "Units, Measurement, Vector & Mathematical Tools",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "UNITS AND MEASUREMENTS",
+            "id": 401,
+            "total_pages": 11,
+            "updated_at": "2017-03-24T04:07:41.000Z",
+            "concepts": [
+              "1.UNITS",
+              "2.LIMITATIONS OF DIMENSIONAL ANALYSIS"
+            ]
+          },
+          {
+            "name": "ERRORS",
+            "id": 402,
+            "total_pages": 8,
+            "updated_at": "2017-03-24T04:07:41.000Z",
+            "concepts": [
+              "3.Systematic errors",
+              "4.SIGNIFICANT DIGITS"
+            ]
+          },
+          {
+            "name": "VECTORS",
+            "id": 403,
+            "total_pages": 15,
+            "updated_at": "2017-03-24T04:07:41.000Z",
+            "concepts": [
+              "5.TYPES OF VECTOR",
+              "6.RESOLUTION OF VECTOR INTO COMPONENTS",
+              "7.VECTOR PRODUCT OF TWO VECTOR"
+            ]
+          },
+          {
+            "name": "Mathematical Tools",
+            "id": 404,
+            "total_pages": 16,
+            "updated_at": "2017-03-24T04:07:41.000Z",
+            "concepts": [
+              "8.NATURE OF ROOTS",
+              "9.Co-ordinate System ",
+              "10.Logarithm"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1877,
+        "topic_name": "Work, Energy & Power",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "WORK",
+            "id": 405,
+            "total_pages": 6,
+            "updated_at": "2017-03-24T04:07:41.000Z",
+            "concepts": [
+              "1.WORK",
+              "2.SPRING FORCE"
+            ]
+          },
+          {
+            "name": "ENERGY",
+            "id": 406,
+            "total_pages": 9,
+            "updated_at": "2017-03-24T04:07:41.000Z",
+            "concepts": [
+              "3.Kinetic energy",
+              "4.PROPERTIES OF CONSERVATIVE AND NONCONSERVATIVE FORCES"
+            ]
+          },
+          {
+            "name": "POWER",
+            "id": 407,
+            "total_pages": 5,
+            "updated_at": "2017-03-24T04:07:41.000Z",
+            "concepts": [
+              "5.POWER",
+              "6.CIRCULAR MOTION IN VERTICAL PLANE"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1870,
+        "topic_name": "Newton's laws of motion",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": []
+      }
+    ],
+    "chemistry": [
+      {
+        "topic_id": 1833,
+        "topic_name": "Alcohol & Ether",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "ALCOHOL",
+            "id": 39,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.INTRODUCTION",
+              "2.METHODS OF PREPARATION",
+              "3.PHYSICAL PROPERTIES",
+              "4.CHEMICAL PROPERTIES",
+              "5.DIFFERENCE BETWEEN PRIMARY SECONDARY AND TERTIARY ALCOHOLS"
+            ]
+          },
+          {
+            "name": "ETHERS",
+            "id": 40,
+            "total_pages": 6,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "6.PREPARATION",
+              "7.Physical Properties",
+              "8.Chemical Properties",
+              "9.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1834,
+        "topic_name": "Aromatic Compound",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Benzene",
+            "id": 41,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.Benzene",
+              "2.TOLUENE",
+              "3.PHENOL (C_6 H_5 OH)",
+              "4.BENZALDEHYDE"
+            ]
+          },
+          {
+            "name": "Nitro Benzene",
+            "id": 42,
+            "total_pages": 11,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "5.NITRO BENZENE",
+              "6.ANILINE"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1844,
+        "topic_name": "Atomic Structure",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 43,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.ATOMS & MOLECULES",
+              "2.DALTON__S ATOMIC THEORY",
+              "3.NATURE OFATOM",
+              "4.CATHODE RAYS (DISCOVERY OF ELECTRON)",
+              "5.POSITIVE RAYS OR CANAL RAYS (DISCOVERY OF PROTON)",
+              "6.NEUTRON",
+              "7.THOMSONS ATOMIC MODEL",
+              "8.RUTHERFORDS ATOMIC MODEL",
+              "9.ELECTROMAGNETIC RADIATIONS",
+              "10.MOSELEYS EXPERIMENT",
+              "11.CONCEPT OF QUANTIZATION",
+              "12.PHOTO ELECTRIC EFFECT",
+              "13.BOHR'S ATOMIC MODEL",
+              "14.SPECTRUM",
+              "15.HYDROGEN SPECTRUM"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 44,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "16.LIMITATIONS OF BOHR__S THEORY",
+              "17.WAVE MECHANICAL MODEL OF ATOM",
+              "18.QUANTUM NUMBERS",
+              "19.ELECTRONIC CONFIGURATION PRINCIPLES",
+              "20.EXTRA STABILITY OF HALF FILLED AND COMPLETELY FILLED ORBITALS"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1835,
+        "topic_name": "Biomolecule and Polymer",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "BIOMOLECULE",
+            "id": 45,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.Classification of carbohydrates ",
+              "2.Stereochemistry of carbohydrates"
+            ]
+          },
+          {
+            "name": "POLYMER",
+            "id": 46,
+            "total_pages": 11,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "3.Classification of Polymers",
+              "4.Some Important polymers",
+              "5.COMMON POLYMERS"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1836,
+        "topic_name": "Carbonyl Compound",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 47,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.INTRODUCTION",
+              "2.GENERAL METHODS OF PREPARATION",
+              "3.METHODS OF PREPARATION ONLY FOR ALEDHYDES",
+              "4.PHYSICAL PROPERTIES",
+              "5.CHEMICAL PROPERTIES",
+              "6.REACTIONS SHOWN BYALDEHYDES ONLY",
+              "7.REACTIONS SHOWN BY KETONES ONLY"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1837,
+        "topic_name": "Carboxylic Acids and their Derivatives",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "INTRODUCTION",
+            "id": 48,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.GENERAL INTRODUCTION",
+              "2.METHOD OF PREPARATION",
+              "3.PHYSICALPROPERTIES",
+              "4.CHEMICALPROPERTIES",
+              "5.SPECIAL FEATURES OF FORMIC ACID"
+            ]
+          },
+          {
+            "name": "ACID DERIVATIVES",
+            "id": 49,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "6.GENERAL INTRODUCTION",
+              "7.ACETIC ANHYDRIDE",
+              "8.ETHYL ACETATE AND ACETIC ESTER",
+              "9.BENZOICACID"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1826,
+        "topic_name": "Chemical Bonding",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 50,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.CHEMICAL BOND",
+              "2.EXCEPTIONS OF OCTET RULE",
+              "3.IONIC BOND",
+              "4.RESONANCE",
+              "5.VALENCE BOND THEORY",
+              "6.HYBRIDISATION"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 51,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "7.BONDING IN MOLECULES",
+              "8.VANDER WAAL__S FORCES",
+              "9.EFFECT OF INTRAMOLECULAR H__BONDING"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1845,
+        "topic_name": "Chemical Equilibrium",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 52,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.TYPES OF CHEMICAL REACTION",
+              "2.CHEMICAL EQUILIBRIUM",
+              "3.LAW OF MASS ACTION",
+              "4.EQUILIBRIUM CONSTANT",
+              "5.APPLICATIONS OF LAW OF MASS ACTION",
+              "6.LE-CHATELIERS PRINCIPLE",
+              "7.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1846,
+        "topic_name": "Chemical Kinetics",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 53,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.TYPES OF REACTIONS",
+              "2.RATE OF REACTION",
+              "3.RATE LAWAND RATE CONSTANT",
+              "4.ORDER OF REACTION",
+              "5.MOLECULARITY",
+              "6.INTEGRATED RATE LAWS FOR DIFFERENT ORDER OF REACTIONS",
+              "7.SECOND ORDER REACTION",
+              "8.METHODS OF DETERMINATION OF ORDER OF REACTIONS",
+              "9.CALCULATION OFFIRSTORDER RATE CONSTANTUSINGDIFFERENT PARAMETERS",
+              "10.THRESHOLD ENERGYAND ACTIVATION ENERGY",
+              "11.THRESHOLD ENERGYAND ACTIVATION ENERGY",
+              "12.INFLUENCE OFTEMPERATURE ON REACTION RATES",
+              "13.COLLISION THEORY",
+              "14.RATE LAW AND MECHANISM"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1827,
+        "topic_name": "Coordination Compounds",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 54,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.MOLECULAR OR ADDITION COMPOUNDS",
+              "2.VARIOUS TERMS USED IN CO-ORDINATION COMPOUNDS",
+              "3.I.U.P.A.C. NAMING OF COORDINATION\rCOMPOUNDS",
+              "4.ISOMERISM IN COORDINATION COMPOUND",
+              "5.BONDING IN COORDINATION COMPOUNDS"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1828,
+        "topic_name": "d and f Block",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "d -Block Elements",
+            "id": 55,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.TRANSITION ELEMENTS AND COMPLEXES",
+              "2.GENERAL CHARACTERISTICS",
+              "3.COMPOUNDS OF TRANSITION ELEMENTS"
+            ]
+          },
+          {
+            "name": "f - BLOCK ELEMENTS",
+            "id": 56,
+            "total_pages": 9,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "4.INNER TRANSITION ELEMENTS",
+              "5.LANTHANIDE CONTRACTION",
+              "6.EFFECTS OF LANTHANIDE CONTRACTION",
+              "7.APPLICATION OFLANTHANIDES",
+              "8.ACTINIDES (5f - BLOCK ELEMENTS)"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1847,
+        "topic_name": "Electrochemistry",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 57,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.REPRESENTATION OFA CELL ( IUPAC CONVENTIONS)",
+              "3.ELECTRODE POTENTIAL",
+              "4.CONCEPT OFELECTROMOTIVE FORCE (EMF) OFACELL",
+              "5.CONCENTRATION CELL",
+              "6.PRIMARY BATTERIES - DRY CELLS AND ALKALINE BATTERIES",
+              "7.CONDUCTANCE"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 58,
+            "total_pages": 8,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "8.SPECIFIC CONDUCTANCE IS CONDUCTANCE OF 1 CM3 OF AN ELECTROLYTE SOLUTION",
+              "9.ELECTROCHEMICAL SERIES"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1829,
+        "topic_name": "General Chemistry",
+        "assigned": false,
+        "locked": false,
+        "has_videos": false,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 59,
+            "total_pages": 3,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.QUANTUM NUMBER",
+              "2.ELECTRONIC CONFIGURATION"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1876,
+        "topic_name": "Periodic Properties",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 60,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "3.DEVELOPMENT OF PERIODIC TABLE",
+              "4.MODERN PERIODIC TABLE",
+              "5.CLASSIFICATION OF ELEMENTS",
+              "6.PERIODICITY"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 61,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "7.IONIZATION POTENTIAL OR IONIZATION ENERGY OR IONIZATION ENTHALPY",
+              "8.ELECTRONEGATIVITY",
+              "9.IMPORTANT FACTS TO REMEMBER"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1838,
+        "topic_name": "General Organic Chemistry",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 62,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.BOND CLEAVAGE",
+              "2.REACTION INTERMEDIATES",
+              "3.APPLICATIONS OFINDUCTIVE EFFECT"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1839,
+        "topic_name": "Halogen Derivatives",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 63,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.CHARACTERISTICS",
+              "2.TYPES OF DIHALIDES"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1840,
+        "topic_name": "Hydrocarbon",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "ALKANE",
+            "id": 64,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.HYDROCARBON",
+              "2.ALKANES",
+              "3.Physical Properties",
+              "4.Chemical Properties",
+              "5.REACTION CHART FOR ALKANES"
+            ]
+          },
+          {
+            "name": "ALKENE",
+            "id": 65,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.GENERAL INTRODUCTION",
+              "2.Characteristics of Alkene",
+              "3.METHODS OF PREPARATION OF ALKENES",
+              "4.PHYSICAL PROPERTIES",
+              "5.CHEMICAL REACTIONS",
+              "6.REACTION CHART FOR ALKENES"
+            ]
+          },
+          {
+            "name": "ALKYNE",
+            "id": 66,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "7.GENERAL INTRODUCTION",
+              "8.METHODS OF PREPARATION",
+              "9.PHYSICAL PROPERTIES",
+              "10.CHEMICAL PROPERTIES",
+              "11.REACTION CHART FOR ALKYNES"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1848,
+        "topic_name": "Ionic Equilibrium",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 67,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.ELECTRIC CONDUCTIVITY",
+              "2.IONIZATION OFWEAK ELECTROLYTES",
+              "3.BUFFER SOLUTIONS",
+              "4.SOLUBILITY (S)"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1841,
+        "topic_name": "Isomerism",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 68,
+            "total_pages": 14,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.INTRODUCTION",
+              "2.Structural Isomerism / Constitutional Isomerism",
+              "3.Stereoisomerism / Space isomerism"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 69,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "4.Optical isomerism",
+              "5.ENANTIOMERS",
+              "6.RACEMIC MIXTURE",
+              "7.CONFORMATIONAL STEREOISOMERISMS"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1849,
+        "topic_name": "Liquid Solutions",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 70,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.SOLUTION",
+              "2.SOLUBILITY OF GASES",
+              "3.ABNORMAL MOLECULAR MASSES"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1830,
+        "topic_name": "Metallurgy (Principles and methods of extraction of elements)",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 71,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.REFRACTORY MATERIALS",
+              "2.TYPE OF METALLURGY",
+              "3.CUPELLATION",
+              "4.EXTRACTION OF ZINC"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1850,
+        "topic_name": "Mole Concept",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 72,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.LAWS OF CHEMICAL COMBINATIONS",
+              "2.Average atomic and molecular mass",
+              "3.STOICHIOMETRYAND STOICHIOMETRIC CALCULATION"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 73,
+            "total_pages": 9,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "4.EUDIOMETRY",
+              "8.CONCENTRATION TERMS"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1842,
+        "topic_name": "Nitrogen Compounds",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 74,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.GENERAL CHARACTERISTICS",
+              "2.PHYSICALPROPERTIES",
+              "3.CHEMICAL PROPERTIES",
+              "4.CYANIDES, ISOCYANIDES, ALKYL NITRITES AND NITRO ALKANES"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1843,
+        "topic_name": "Nomenclature",
+        "assigned": false,
+        "locked": false,
+        "has_videos": false,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 75,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.CLASSIFICATION OF ORGANIC COMPOUNDS",
+              "2.NOMENCLATURE OF ORGANIC COMPOUNDS",
+              "3.COMMON - NAMING OF THE FUNCTIONAL GROUP HAVING CARBON",
+              "4.SATURATED BRANCHED CHAIN HYDROCARBONS",
+              "5.UNBRANCHED UNSATURATED HYDROCARBON"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 76,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "6.POLYFUNCTIONAL COMPOUNDS",
+              "7.NOMENCLATURE OF SPIRO COMPOUNDS"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1831,
+        "topic_name": "p-block",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "THE BORON FAMILY",
+            "id": 77,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.CHEMICAL PROPERTIES",
+              "2.FAMILY MEMBERS OF _BORON FAMILY_"
+            ]
+          },
+          {
+            "name": "CARBON FAMILY",
+            "id": 78,
+            "total_pages": 8,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "3.General Properties of IV-A Group",
+              "4.CHEMICALPROPERTIES",
+              "5.FAMILY MEMBERS OF IV-A GROUP"
+            ]
+          },
+          {
+            "name": "NITROGEN FAMILY",
+            "id": 79,
+            "total_pages": 11,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "6.GENERAL PROPERTIES",
+              "7.ABNORMAL BEHAVIOUR OF NITROGEN"
+            ]
+          },
+          {
+            "name": "OXYGEN FAMILY",
+            "id": 80,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "8.GENERAL PROPERTIES",
+              "9.CHEMICALPROPERTIES",
+              "10.OZONE"
+            ]
+          },
+          {
+            "name": "HALOGEN FAMILY",
+            "id": 81,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "11.GENERAL PROPERTIES",
+              "12.CHEMICAL PROPERTIES",
+              "13.COMPOUNDS OF DIFFERENT MEMBERS"
+            ]
+          },
+          {
+            "name": "INERT GAS FAMILY",
+            "id": 82,
+            "total_pages": 9,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "14.GENERAL PROPERTIES",
+              "15.FAMILY MEMBERS OF NOBLE GASES"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1851,
+        "topic_name": "Redox Reaction",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 83,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.OXIDATION NUMBER",
+              "2.THE RULE FOR DERIVING OXIDATION NUMBER",
+              "3.CALCULATION OF VALENCY FACTOR (V.f.)"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1832,
+        "topic_name": "s-Block elements & Hydrogen Compounds",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "s-BLOCK ELEMENTS",
+            "id": 84,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.THE ALKALI METALS",
+              "2.SODIUM",
+              "3.CALCIUM",
+              "4.BIOLOGICAL ROLE OF SODIUM, POTASSIUM, MAGNESIUM & CALCIUM"
+            ]
+          },
+          {
+            "name": "HYDROGEN COMPOUNDS",
+            "id": 85,
+            "total_pages": 9,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "5.HYDROGEN",
+              "6.SOFT AND HARD WATER"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1852,
+        "topic_name": "Solid State",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 86,
+            "total_pages": 22,
+            "updated_at": "2017-03-06T10:02:57.000Z",
+            "concepts": [
+              "1.SOLIDS",
+              "2.CLASSIFICATION OF CRYSTALS",
+              "3.TYPES OFVOIDS IN CLOSEST PACKING",
+              "4.RADIUS RATIO RULES",
+              "5.SUPER CONDUCTING MATERIALS"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1853,
+        "topic_name": "State of Matter",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 87,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.DIFFERENCE BETWEEN STATES OF MATTER",
+              "2.GAS LAWS",
+              "3.THE IDEAL GAS EQUATION",
+              "4.DALTON'S LAW OF PARTIAL PRESSURES",
+              "5.KINETIC THEORY OF GASES"
+            ]
+          },
+          {
+            "name": "Subtopic Set 1",
+            "id": 88,
+            "total_pages": 7,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "6.DEVIATIONS FROM IDEAL BEHAVIOUR",
+              "7.CRITICAL PHENOMENON & LIQUIFICATION OF GASES",
+              "8.INVERSION TEMPERATURE"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1854,
+        "topic_name": "Surface Chemistry",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 89,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.SURFACE CHEMISTRY",
+              "2.ADSORPTION",
+              "3.CATALYSIS",
+              "4.COLLOIDS"
+            ]
+          },
+          {
+            "name": "Subtopic Set 1",
+            "id": 90,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "5.Properties of Colloidal Solutions",
+              "6.EMULSIONS",
+              "7.GELS"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1855,
+        "topic_name": "Thermodynamics & Thermochemistry",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "THERMODYNAMICS",
+            "id": 91,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.TERMS USED IN THERMODYNAMICS",
+              "2.THERMODYNAMICS PROCESS",
+              "3.CALCULATION OF WORK DONE IN VARIOUS PROCESS",
+              "4.INTERNAL ENERGY (E)"
+            ]
+          },
+          {
+            "name": "THERMOCHEMISTRY",
+            "id": 92,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "5.Types of Reactions",
+              "6.SPONTANEOUS PROCESS",
+              "7.SECOND LAW OF THERMODYNAMICS",
+              "8.GIBBS FREE ENERGY (G)"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 2113,
+        "topic_name": "Environmental Chemistry",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": []
+      }
+    ],
+    "biology": [
+      {
+        "topic_id": 1794,
+        "topic_name": "Anatomy of flowering plants",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 93,
+            "total_pages": 16,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.THE TISSUES",
+              "2.THE TISSUE SYSTEM"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 94,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "3.ANATOMY OF DlCOT AND MONOCOT PLANTS",
+              "4.SECONDARY GROWTH"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1792,
+        "topic_name": "Animal Kingdom-II (Chordata)",
+        "assigned": false,
+        "locked": false,
+        "has_videos": false,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 95,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.PHYLUM: CHORDATA",
+              "2.VERTEBRATA OR CRANIATA",
+              "3.CLASSIFICATION",
+              "4.SUPER CLASS 2 (TETRAPODA)"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 96,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "5.CLASSIFICATION",
+              "6.CLASS : MAMMALIA",
+              "7.SUMMARY"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1791,
+        "topic_name": "Animal Kingdom-I (Non-Chordata)",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 97,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.HABITAT",
+              "2.METAZOA",
+              "3.LEVELS OF ORGANISATION",
+              "4.PHYLUM: PROTOZOA",
+              "5.PHYLUM: PORIFERA (Sponges)",
+              "6.PHYLUM: CNIDARIA (Coelenterata)",
+              "7.HYDRA"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 98,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "8.METAGENESIS AND POLYMORPHISM",
+              "9.CLASSIFICATION OF ANNELIDA",
+              "10.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1825,
+        "topic_name": "Biodiversity & Conservation",
+        "assigned": false,
+        "locked": false,
+        "has_videos": false,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Biodiversity & Conservation",
+            "id": 99,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.LEVELS OF BIODIVERSITY",
+              "2.BIODIVERSITY CONSERVATION",
+              "3.HOT SPOTS OF BIODIVERSITY",
+              "4.Summary"
+            ]
+          },
+          {
+            "name": "Environmental Issues",
+            "id": 100,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "5.Kinds of Pollution",
+              "6.GLOBAL ENVIRONMENT CHANGE",
+              "7.DEGRADATION BY IMPROPER RESOURCE UTILISATION AND MAINTENANCE",
+              "8.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1789,
+        "topic_name": "Biological Classification",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 101,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.KINGDOM SYSTEMS OF CLASSIFICATION",
+              "2.Bacterial Cell Structure",
+              "3.Economic Importance of Bacteria"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 102,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "4.CYANOBACTERIA",
+              "5.MYCOPLASMA",
+              "6.ARCHAEBACTERIA",
+              "7.ACTINOMYCETES (Ray Fungi)",
+              "8.KINGDOM : PROTISTA",
+              "9.KINGDOM : FUNGI"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 103,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "10.Classification of Fungi",
+              "11.Life History of a Mushroom",
+              "12.Life Cycle of Puccinia graminis tritici"
+            ]
+          },
+          {
+            "name": "Subtopic Set 4",
+            "id": 104,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "13.MYCORRHIZA (FUNGAL ROOTS)",
+              "14.LICHENS",
+              "15.VIRUS",
+              "16.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1798,
+        "topic_name": "Biomolecule",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 5",
+            "id": 105,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.A Comparison of Elements Present in Non-living and Living matter",
+              "2.PRIMARY AND SECONDARY METABOLITES",
+              "3.AMINO ACIDS",
+              "4.PROTEINS",
+              "5.LIPIDS"
+            ]
+          },
+          {
+            "name": "Subtopic Set 6",
+            "id": 106,
+            "total_pages": 29,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "6.NUCLEOTIDES",
+              "7.ENZYMES",
+              "8.STRUCTURE OF ENZYME",
+              "9.Mode of Enzyme Action",
+              "10.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1822,
+        "topic_name": "Biotechnology - Principles & Processes",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Biotechnology : Principles and Processes",
+            "id": 107,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.PRINCIPLES OF BIOTECHNOLOGY",
+              "2.TOOLS OF RECOMBINANT DNA TECHNOLOGY",
+              "3.Separation and Isolation of DNA Fragments",
+              "4.DIFFERENT TYPES OF VECTOR"
+            ]
+          },
+          {
+            "name": "Biotechnology : Principles and Processes",
+            "id": 108,
+            "total_pages": 14,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "5.PROCESS OF RECOMBINANT DNA TECHNOLOGY",
+              "6.Application of PCR",
+              "7.Summary"
+            ]
+          },
+          {
+            "name": "Biotechnology and Its Application",
+            "id": 109,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "8.BIOTECHNOLOGICAL APPLICATION IN AGRICULTURE",
+              "9.GM PRODUCTS: BENEFITS AND CONTROVERSIES",
+              "11.BIOETHICS",
+              "12.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1807,
+        "topic_name": "Body Fluid & Circulation",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 110,
+            "total_pages": 22,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.TYPES OF HEART",
+              "2.BLOOD VESSELS AND COURSE OF CIRCULATION OF BLOOD",
+              "3.PORTAL SYSTEMS",
+              "4.ECG (ELECTROCARDIOGRAM)",
+              "5.DISEASES OF HEART",
+              "6.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1805,
+        "topic_name": "Digestion & Absorption",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 111,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.RESPIRATION",
+              "2.HUMAN RESPIRATORY SYSTEM",
+              "3.MECHANISM OF BREATHING",
+              "4.GASEOUS EXCHANGE",
+              "5.Summary"
+            ]
+          },
+          {
+            "name": "Subtopic Set 1",
+            "id": 116,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.TYPES OF NUTRIENTS OF ANIMALS",
+              "2.HISTOLOGY OF ALIMENTARY CANAL",
+              "3.DIGESTION AND GASTRO-INTESTINAL SECRETlONS"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 117,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "4.NUTRITIONAL REQUIREMENTS OF HUMANS",
+              "5.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1799,
+        "topic_name": "Cell Cycle & Cell Division",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 112,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.CELL CYCLE AND ITS PHASES",
+              "2.Regulation of Cell Cycle",
+              "3.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1797,
+        "topic_name": "Cell-The Unit Of Life",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 113,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.HISTORICAL ACCOUNT",
+              "2.CELL THEORY",
+              "3.PROTOPLASM",
+              "4.CELL ORGANELLES"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 114,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "5.ENDOPLASMIC RETICULUM (ER)",
+              "6.CHROMOSOME",
+              "7.KARYOTYPE ANALYSIS",
+              "8.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1811,
+        "topic_name": "Chemical Coordination and Integration",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 115,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.Introducton",
+              "2.HORMONE",
+              "3.PITUITARY GLAND",
+              "4.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1824,
+        "topic_name": "Ecosystem",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 118,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.ECOSYSTEM -STRUCTURE AND FUNCTION",
+              "2.STRUCTURAL ASPECT OF ECOSYSTEM",
+              "3.FUNCTIONAL ASPECT OF ECOSYSTEM"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 119,
+            "total_pages": 9,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "4.ECOLOGICAL SUCCESSION (BY HULT)",
+              "5.ECOSYSTEM SERVICES",
+              "6.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1818,
+        "topic_name": "Evolution",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 120,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.From Origin of Earth to Origin of Life",
+              "2.THEORIES ON THE ORIGIN OF LIFE",
+              "3.EVIDENCES OF EVOLUTION",
+              "4.Microfossils and Fossil Fuel Exploration"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 121,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "5.BRIEF ACCOUNT OF EVOLUTION",
+              "6.THEORIES OF EVOLUTION",
+              "7.ARTIFICIAL SELECTION"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 122,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "8.SPECIATION AND ISOLATION",
+              "9.MODERN SYNTHETIC THEORY OF EVOLUTION",
+              "10.HUMAN EVOLUTION",
+              "11.MODERN HUMANS",
+              "12.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1808,
+        "topic_name": "Excretory Products & Their Elimination",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 123,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.Water and Solute Regulation in Fresh Water Environment",
+              "2.EXCRETORY ORGANS",
+              "3.TYPES OF KIDNEYS",
+              "4.HUMAN EXCRETORY SYSTEM",
+              "5.PHYSIOLOGY OF EXCRETION (MECHANISM OF URINE FORMATION)",
+              "6.REGULATION OF KIDNEY FUNCTION",
+              "7.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1819,
+        "topic_name": "Human Health & Disease",
+        "assigned": false,
+        "locked": false,
+        "has_videos": false,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 124,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.HEALTH",
+              "2.DISEASES CAUSED BY VIRUSES",
+              "3.DISEASES CAUSED BY BACTERIA",
+              "4.DISEASE SPREAD BY PROTOZOA",
+              "5.DISEASE CAUSED BY HELMINTHES",
+              "6.DISEASE CAUSED BY FUNGI"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 125,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "7.IMMUNITY",
+              "8.Development of Immunity",
+              "9.IMMUNE SYSTEM DISORDER"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 126,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "10.CANCER",
+              "11.AIDS",
+              "12.HEPATITIS",
+              "13.ALCOHOLISM",
+              "14.TOBACCO ADDICTION",
+              "15.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1814,
+        "topic_name": "Human Reproduction",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "REPRODUCTION",
+            "id": 127,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.HUMAN REPRODUCTION",
+              "2.MALE REPRODUCTIVE SYSTEM",
+              "3.FEMALE REPRODUCTIVE SYSTEM"
+            ]
+          },
+          {
+            "name": "EMBRYOLOGY",
+            "id": 128,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "4.THE EVENTS IN HUMAN REPRODUCTION",
+              "5.THE EVENTS IN MAMMALIAN REPRODUCTION",
+              "6.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1809,
+        "topic_name": "Locomotion & Movement",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 129,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.TYPES OF MOVEMENTS",
+              "2.SKELETAL SYSTEM IN HUMAN",
+              "3.Bones Forming Upper Limb"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 130,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "4.The Pelvic Girdle or Body Pelvis",
+              "5.ARTICULATION OF BONES, THE JOINTS",
+              "6.DISORDERS OF BONES, JOINTS AND MUSCLES"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1821,
+        "topic_name": "Microbes In human Welfare",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 131,
+            "total_pages": 14,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.MICROBES IN HOUSEHOLD PRODUCTS",
+              "2.MICROBES IN INDUSTRIAL PRODUCTS",
+              "3.MICROBES IN SEWAGE TREATMENT",
+              "4.MICROBES AS BIOCONTROL AGENTS",
+              "5.MICROBES AS BIOFERTILISERS",
+              "6.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1801,
+        "topic_name": "Mineral Nutrition",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 132,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.MINERAL ELEMENTS",
+              "2.TOXICITY OF MICRONUTRIENTS",
+              "3.MINERAL ABSORPTION",
+              "4.NITROGEN CYCLE",
+              "5.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1817,
+        "topic_name": "Molecular Basis Of Inheritance",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 133,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.The DNA",
+              "2.PACKAGING OF DNA HELIX",
+              "3.THE SEARCH FOR GENETIC MATERIAL",
+              "4.STRUCTURE OF RNA (Ribose Nucleic Acid)"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 134,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "5.Genetic Code",
+              "6.REGULATION OF GENE EXPRESSION",
+              "7.GENOMICS",
+              "8.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1793,
+        "topic_name": "Morphology of flowering plants",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 135,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "1.Classification of Plants",
+              "2.THE ROOT",
+              "3.THE STEM"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 136,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:58.000Z",
+            "concepts": [
+              "4.THE FLOWER",
+              "5.THE FRUITS",
+              "6.THE SEED",
+              "7.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1810,
+        "topic_name": "Neural Control and Coordination",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 137,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.NEURAL SYSTEM",
+              "2.SYNAPTIC TRANSMISSION",
+              "3.NERVOUS SYSTEM OF HUMANS"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 138,
+            "total_pages": 22,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "4.REFLEX ACTION",
+              "5.SENSE ORGANS",
+              "6.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1823,
+        "topic_name": "Organism & Population",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 139,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.Branches of Ecology",
+              "2.BlOME (Major Ecosystems)",
+              "3.MAJOR ABIOTIC FACTORS",
+              "4.RESPONSE TO ABIOTIC FACTORS"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 140,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "5.ADAPTATION",
+              "6.POPULATIONS",
+              "7.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1802,
+        "topic_name": "Photosynthesis in Higher Plants",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 141,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.HISTORICAL ACCOUNT -EARLY EXPERIMENTS",
+              "2.PHOTOSYNTHETIC PIGMENTS",
+              "3.LIGHT REACTION OR HILL REACTION"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 142,
+            "total_pages": 14,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "4.DARK REACTION / PCR OR BLACKMAN REACTION",
+              "5.PHOTORESPIRATION",
+              "6.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1804,
+        "topic_name": "Plant Growth and Development",
+        "assigned": false,
+        "locked": false,
+        "has_videos": false,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 143,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.PLANT GROWTH",
+              "2.DIFFERENTIATION, DEDIFFERENTIATION AND REDIFFERENTIATION",
+              "3.PLANT GROWTH REGULATORS",
+              "4.DORMANCY",
+              "5.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1790,
+        "topic_name": "Plant Kingdom",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 144,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.PLANT CLASSIFICATION SYSTEMS",
+              "2.BRYOPHYTA"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 145,
+            "total_pages": 25,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "3.PTERIDOPHYTA",
+              "4.GYMNOSPERMS",
+              "5.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1816,
+        "topic_name": "Principles of Inheritance and Variation",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 146,
+            "total_pages": 27,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.INHERITANCE: HEREDITY AND VARIATIONS",
+              "2.MENDELIAN INHERITANCE",
+              "3.ONE GENE INTERACTION",
+              "3.TWO GENES INTERACTION"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 147,
+            "total_pages": 20,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "4.CHROMOSOMAL THEORY OF INHERITANCE / PARALLELISM BETWEEN\rCHROMOSOMES AND MENDELIAN FACTORS",
+              "5.CROSSING OVER AND RECOMBINATION",
+              "6.SEX DETERMINATION"
+            ]
+          },
+          {
+            "name": "Subtopic Set 3",
+            "id": 148,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "7.MUTATION",
+              "8.GENETIC DISORDERS",
+              "9.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1812,
+        "topic_name": "Reproduction In Organisms",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 149,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.LIFE SPAN",
+              "2.SEXUAL REPRODUCTION",
+              "3.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1815,
+        "topic_name": "Reproductive Health",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 150,
+            "total_pages": 17,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.REPRODUCTIVE HEALTH -PROBLEMS AND STRATEGIES",
+              "2.POPULATION EXPLOSION AND BIRTH CONTROL",
+              "3.SEXUALLY TRANSMITTED DISEASES",
+              "4.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1803,
+        "topic_name": "Respiration In Plants",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 151,
+            "total_pages": 19,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.RESPIRATORY SUBSTRATE",
+              "2.TYPES OF RESPIRATION",
+              "3.FERMENTATION",
+              "4.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1813,
+        "topic_name": "Sexual Reproduction In Flowering Plants",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 152,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.FLOWER",
+              "2.POLLINATION",
+              "3.POLLEN-PISTIL INTERACTION",
+              "4.DOUBLE FERTILIZATION"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 153,
+            "total_pages": 10,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "5.POST-FERTILIZATION",
+              "6.APOMIXIS AND POLYEMBRYONY",
+              "7.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1820,
+        "topic_name": "Food Production Strategies - Plant Breeding",
+        "assigned": false,
+        "locked": false,
+        "has_videos": false,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Strategies For Enhancement In Food Production-I(Plant Breeding)",
+            "id": 154,
+            "total_pages": 18,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.MAIN STEPS IN PLANT BREEDING",
+              "2.GREEN REVOLUTION",
+              "3.SINGLE CELL PROTEIN (SCP)",
+              "4.GREEN MANURE",
+              "5.ENERGY CROPS",
+              "6.PETROLEUM PLANTS",
+              "7.TISSUE CULTURE",
+              "8.Summary"
+            ]
+          },
+          {
+            "name": "Strategies For Enhancement In Food Production-II(Animal Husbandry)",
+            "id": 155,
+            "total_pages": 22,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.ANIMAL BREEDING",
+              "2.CATTLE MANAGEMENT AND FEEDING",
+              "3.POULTRY",
+              "4.APICULTURE",
+              "5.FISHERY",
+              "6.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1795,
+        "topic_name": "Structural Organisation In Animal-I",
+        "assigned": false,
+        "locked": false,
+        "has_videos": false,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 156,
+            "total_pages": 26,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.TYPES OF TISSUES",
+              "2.PLASMA",
+              "3.BLOOD CELLS"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 157,
+            "total_pages": 13,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "4.BLOOD COAGULATION",
+              "5.SYNAPSE",
+              "6.NEUROGLIA CELLS / GLIAL CELLS",
+              "7.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1796,
+        "topic_name": "Structural Organisation In Animal-II",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 158,
+            "total_pages": 23,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.EARTHWORM",
+              "2.EXCRETION",
+              "3.NERVOUS SYSTEM",
+              "4.SENSE ORGANS",
+              "5.COCKROACH"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 159,
+            "total_pages": 12,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "6.FROG",
+              "34.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1788,
+        "topic_name": "The Living World",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 160,
+            "total_pages": 24,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.WHAT IS LIVING?",
+              "2.NOMENCLATURE",
+              "3.TAXONOMIC CATEGORIES",
+              "4.TAXONOMICAL AIDS",
+              "5.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1800,
+        "topic_name": "Transport In Plants",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": [
+          {
+            "name": "Subtopic Set 1",
+            "id": 161,
+            "total_pages": 21,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "1.MEANS OF TRANSPORT",
+              "2.PLANT-WATER RELATIONS",
+              "3.ABSORPTION OF WATER"
+            ]
+          },
+          {
+            "name": "Subtopic Set 2",
+            "id": 162,
+            "total_pages": 15,
+            "updated_at": "2017-03-06T10:02:59.000Z",
+            "concepts": [
+              "4.TRANSPIRATION",
+              "7.UPTAKE AND TRANSPORT OF MINERAL NUTRIENTS",
+              "8.Summary"
+            ]
+          }
+        ]
+      },
+      {
+        "topic_id": 1806,
+        "topic_name": "Breathing and Exchange of Gases",
+        "assigned": false,
+        "locked": false,
+        "has_videos": true,
+        "has_theory": true,
+        "sub_topic": []
+      },
+      {
+        "topic_id": 1918,
+        "topic_name": "Environmental Issues",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": []
+      },
+      {
+        "topic_id": 1919,
+        "topic_name": "Biotechnology And Its Application",
+        "assigned": false,
+        "locked": true,
+        "has_videos": true,
+        "has_theory": false,
+        "sub_topic": []
+      }
+    ]
+  }
+}
